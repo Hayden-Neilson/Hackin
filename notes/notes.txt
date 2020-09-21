@@ -1,1 +1,2 @@
 set up the vm box for things later on 
+got the bug fixed for my network and not my vm has access to the internet
